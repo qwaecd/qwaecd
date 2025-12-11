@@ -17,15 +17,15 @@ Here are some ideas to get you started:
 
 ---
 
-![qwaecd's GitHub stats](https://github-readme-stats.vercel.app/api?username=qwaecd&show_icons=true&theme=radical&hide_border=true)
+![qwaecd's GitHub stats](https://github-readme-stats-eight-drab-69.vercel.app/api?username=qwaecd&show_icons=true&theme=radical&hide_border=true)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qwaecd&layout=compact&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats-eight-drab-69.vercel.app/api/top-langs/?username=qwaecd&layout=compact&theme=radical&hide_border=true)
 
----
+<!---
 
 
 ![Trophy](https://github-profile-trophy.vercel.app/?username=qwaecd&theme=gruvbox&no-frame=true&column=7)
 
----
+--->
 
